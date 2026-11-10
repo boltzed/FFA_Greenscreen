@@ -1,0 +1,19 @@
+{
+  "repo_url": "https://github.com/boltzed/FFA_Greenscreen",
+  "name": "FFA Greenscreen",
+  "description": "Map for content creators or people wanting cutouts of their in game character.\n\nMap features:\nIn game adjustable day/night time switch\nWeapon wall\nBlue and green screen\n\nImportant key binds:\nAlt F2 to enter free cam (Nvidia gpu only)\nTogglehud (console command to get rid of all UI)",
+  "mod_type": "Shared",
+  "authors": [
+    "boltzed"
+  ],
+  "dependencies": [],
+  "tags": [
+    "Map"
+  ],
+  "maps": [
+    "FFA_Greenscreen"
+  ],
+  "options": {
+    "actor_mod": false
+  }
+}
